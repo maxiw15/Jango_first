@@ -1,0 +1,10 @@
+2023-01-21T06:15:56.153Z [intellij.services.AIInitializeManager.initializeAI] INFO AI state ENABLED
+2023-01-21T06:15:56.159Z [intellij.services.AIInitializeManager.initializeAI] INFO is toolwindow active null, is info toolwindow active null
+2023-01-21T06:15:57.054Z [intellij.services.AIInitializeManager.initializeAI] INFO AI state ENABLED
+2023-01-21T06:15:57.055Z [intellij.services.AIInitializeManager.initializeAI] INFO is toolwindow active true, is info toolwindow active true
+2023-01-21T06:15:57.058Z [ctureModificationListener$Companion.initForProject] INFO ProjectStructureModificationListener is init for project first_project
+2023-01-21T06:15:57.066Z [ojectContextInitializer.createInfrastructureFacade] INFO Found port: 44215
+2023-01-21T06:15:57.130Z [ProjectContextInitializer.initializeProjectContext] INFO Plugin context initialized
+2023-01-21T06:15:57.178Z [ls.logging.AiLogger$Companion$cleanUpLogs$1.invoke] INFO Clean up logs files was started
+2023-01-21T06:15:57.186Z [ls.logging.AiLogger$Companion$cleanUpLogs$1.invoke] INFO Clean up logs files was finished
+2023-01-21T06:15:58.951Z [initializeInfrastructureInstance$1$1.invokeSuspend] INFO Infrastructure initialized
