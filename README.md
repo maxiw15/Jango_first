@@ -45,3 +45,4 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 # Jango_first
+# Jango_first
